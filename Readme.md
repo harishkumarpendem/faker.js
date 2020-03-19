@@ -1,3 +1,4 @@
+
 # faker.js - generate massive amounts of fake data in the browser and node.js
 
 ![Faker.js](https://raw.githubusercontent.com/Marak/faker.js/master/logo.png)
@@ -6,10 +7,13 @@
 
 [![npm version](https://badge.fury.io/js/faker.svg)](http://badge.fury.io/js/faker)
 
+B
+
 [![OpenCollective](https://opencollective.com/fakerjs/backers/badge.svg)](#backers)
 [![OpenCollective](https://opencollective.com/fakerjs/sponsors/badge.svg)](#sponsors)
 
-## Demo
+
+## Demo first 
 
 [https://rawgit.com/Marak/faker.js/master/examples/browser/index.html](https://rawgit.com/Marak/faker.js/master/examples/browser/index.html)
 
@@ -230,7 +234,12 @@ This will interpolate the format string with the value of methods `name.lastName
   * directoryPath
   * filePath
   * semver
-
+* Department
+  * Health 
+  * Food
+  * power
+  * tourist
+  * police
 
 ## Localization
 
